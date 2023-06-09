@@ -25,7 +25,7 @@ Follow these steps to set up the system:
 2. Open the `ProjectCode.ino` file in the Arduino IDE.
 3. Upload the code to the Arduino board.
 4. Connect all sensors and actuators to the correct pins using the schematics provided on the Arduino board.
-5. Make sure all the required libraries are installed for the respective sensors, actuators, and modules.
+5. Make sure all the required libraries provided are installed for the respective sensors, actuators, and modules.
 6. Power on the Arduino board.
 7. The system is now ready to use.
 
