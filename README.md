@@ -17,7 +17,7 @@ Other folders include:
 - `ds3231_RTC`: This folder contains the code for the DS3231 RTC module. It has its own `ds3231_RTC.ino` file that controls the functionality of the DS3231 RTC module.
 
 
-## Usage
+### Arduino Setup
 
 Follow these steps to set up the system:
 
