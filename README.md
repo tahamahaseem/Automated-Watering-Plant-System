@@ -129,18 +129,18 @@ To use this water plant system, you will need the following components:
 - `FastLED.h`: Used for	8X8 LED Matrix
 - `Servo.h`: Used for	Servo Motor
 
-## Design
+### Design
 
-### Arduino Pin Layout
+#### Arduino Pin Layout
 ![image](https://github.com/tahamahaseem/Automated-Watering-Plant-System/assets/52297139/6998d298-6d96-406d-b413-7af2745bccdf)
 
-### PCB Design
+#### PCB Design
 ![image](https://github.com/tahamahaseem/Automated-Watering-Plant-System/assets/52297139/763785b9-94e1-4e46-be3b-cbf3bf3afe90)
 
-### Algorithm
+#### Algorithm
 ![image](https://github.com/tahamahaseem/Automated-Watering-Plant-System/assets/52297139/7fc05b1a-6833-4189-a5db-8bd9f429329e)
 
-### Servo Vent 3D Model
+#### Servo Vent 3D Model
 ![image](https://github.com/tahamahaseem/Automated-Watering-Plant-System/assets/52297139/0d9a7edf-a9e5-4505-86dc-5b2694c68394)
 
 
