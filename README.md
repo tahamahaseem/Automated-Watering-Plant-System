@@ -95,22 +95,22 @@ If you encounter any issues with the Water Plant System, consider the following 
 
 To use this water plant system, you will need the following components:
 
-1 12V Water Pump	
-1 LED Matrix	
-1 DC Fan	
-1 HC-06 Bluetooth	 	
-1 LCD screen
-1 PCF8574t	
-3 Resistors (1K)	 
-1 Push button	 
-2 DC relay	 
-1 Photoresistor	 
-1 DHT (temperature and humidity sensor)	 
-1 Water Level Sensor	
-1 Capacitive Soil Moisture Sensor	
-F-F jumper cable packs	
-1 tubing
-1 DS3231 RTC I2C 
+- 1 12V Water Pump	
+- 1 LED Matrix	
+- 1 DC Fan	
+- 1 HC-06 Bluetooth	 	
+- 1 LCD screen
+- 1 PCF8574t	
+- 3 Resistors (1K)	 
+- 1 Push button	 
+- 2 DC relay	 
+- 1 Photoresistor	 
+- 1 DHT (temperature and humidity sensor)	 
+- 1 Water Level Sensor	
+- 1 Capacitive Soil Moisture Sensor	
+- F-F jumper cable packs	
+- 1 tubing
+- 1 DS3231 RTC I2C 
 
 ### Libraries
 
