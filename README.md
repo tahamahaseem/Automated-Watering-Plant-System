@@ -1,6 +1,6 @@
 # Automated-Watering-Plant-System
 
-Arduino-based water plant system automates indoor plant care. Monitors temperature, humidity, watering, and light for optimal growth. User-friendly programming with Arduino Uno R3. Affordable and practical solution for hassle-free plant maintenance.
+Arduino-based water plant system automates indoor plant care. Monitors temperature, humidity, watering, and light for optimal growth. User-friendly programming with Arduino Uno R3. Affordable and practical solution for hassle-free plant maintenance. 
 
 ## Repository Structure
 
@@ -16,11 +16,8 @@ Other folders include:
 - `Bluetooth`: This folder contains the code for the Bluetooth module. It has its own `Bluetooth.ino` file that controls the functionality of the Bluetooth module.
 - `ds3231_RTC`: This folder contains the code for the DS3231 RTC module. It has its own `ds3231_RTC.ino` file that controls the functionality of the DS3231 RTC module.
 
-## Introduction
 
-The Water Plant System is an automated system designed to maintain the health of plants by monitoring soil moisture levels and providing appropriate watering. This user manual provides instructions on how to effectively use the system.
-
-### Usage
+## Usage
 
 Follow these steps to set up the system:
 
