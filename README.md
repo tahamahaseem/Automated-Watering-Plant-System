@@ -7,7 +7,9 @@ Arduino-based water plant system automates indoor plant care. Monitors temperatu
 The repository is structured as follows:
 
 - `ProjectCode.ino`: This is the main Arduino sketch file that contains the final code for the water plant system. It integrates all the sub-portions of the system.
-- 
+- `.brd`: schematic capture and PCB
+- `.sch`: circuit schematic file
+
 Other folders include:
 
 - `Humidity_Sensor`: This folder contains the code for the humidity sensor. It has its own `Humidity_Sensor.ino` file that controls the functionality of the humidity sensor.
@@ -15,7 +17,6 @@ Other folders include:
 - `RTC`: This folder contains the code for the Real-Time Clock (RTC) module. It has its own `RTC.ino` file that controls the functionality of the RTC.
 - `Bluetooth`: This folder contains the code for the Bluetooth module. It has its own `Bluetooth.ino` file that controls the functionality of the Bluetooth module.
 - `ds3231_RTC`: This folder contains the code for the DS3231 RTC module. It has its own `ds3231_RTC.ino` file that controls the functionality of the DS3231 RTC module.
-
 
 ## Arduino Setup
 
