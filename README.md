@@ -29,7 +29,7 @@ Follow these steps to set up the system:
 6. Power on the Arduino board.
 7. The system is now ready to use.
 
-All resources needed are provided here: https://github.com/tahamahaseem/Automated-Watering-Plant-System/blob/main/README.md#libraries
+All resources needed are provided here: https://github.com/tahamahaseem/Automated-Watering-Plant-System/blob/main/README.md#resources
 
 ## System Overview
 
