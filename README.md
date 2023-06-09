@@ -7,8 +7,8 @@ Arduino-based water plant system automates indoor plant care. Monitors temperatu
 The repository is structured as follows:
 
 - `ProjectCode.ino`: This is the main Arduino sketch file that contains the final code for the water plant system. It integrates all the sub-portions of the system.
-- `.brd`: schematic capture and PCB
-- `.sch`: circuit schematic file
+- `.brd`: Schematic capture and PCB
+- `.sch`: Circuit schematic file
 
 Other folders include:
 
