@@ -20,6 +20,18 @@ Other folders include:
 
 The Water Plant System is an automated system designed to maintain the health of plants by monitoring soil moisture levels and providing appropriate watering. This user manual provides instructions on how to effectively use the system.
 
+### Usage
+
+Follow these steps to set up the system:
+
+1. Connect the Arduino board to your computer.
+2. Open the `ProjectCode.ino` file in the Arduino IDE.
+3. Upload the code to the Arduino board.
+4. Connect all sensors and actuators to the correct pins using the schematics provided on the Arduino board.
+5. Make sure all the required libraries are installed for the respective sensors, actuators, and modules.
+6. Power on the Arduino board.
+7. The system is now ready to use.
+
 ## System Overview
 
 The Water Plant System consists of several sensors and actuators that work together to ensure optimal plant care. The system includes the following components:
@@ -134,17 +146,6 @@ To use this water plant system, you will need the following components:
 ### Servo Vent 3D Model
 ![image](https://github.com/tahamahaseem/Automated-Watering-Plant-System/assets/52297139/0d9a7edf-a9e5-4505-86dc-5b2694c68394)
 
-## Usage
-
-Follow these steps to set up the system:
-
-1. Connect the Arduino board to your computer.
-2. Open the `ProjectCode.ino` file in the Arduino IDE.
-3. Upload the code to the Arduino board.
-4. Connect all sensors and actuators to the correct pins using the schematics provided on the Arduino board.
-5. Make sure all the required libraries are installed for the respective sensors, actuators, and modules.
-6. Power on the Arduino board.
-7. The system is now ready to use.
 
 
 
