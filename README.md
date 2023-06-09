@@ -42,11 +42,11 @@ Hot hlue gun and sticks
 
 ### Libraries
 
-`RTClib.h`: Used for RTC module
-`LiquidCrystal_I2C.h`: Used for	LCD and I2C Communication
-`dht.h`: Used for	Humidity and Temperature Sensor
-`FastLED.h`: Used for	8X8 LED Matrix
-`Servo.h`: Used for	Servo Motor
+- `RTClib.h`: Used for RTC module
+- `LiquidCrystal_I2C.h`: Used for	LCD and I2C Communication
+- `dht.h`: Used for	Humidity and Temperature Sensor
+- `FastLED.h`: Used for	8X8 LED Matrix
+- `Servo.h`: Used for	Servo Motor
 
 ## Design
 
